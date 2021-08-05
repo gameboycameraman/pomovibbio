@@ -1,7 +1,14 @@
-### Challenge details
+# Pomovibbio 🍅
 
-[Read this guide first](challenge-description.md)
-
+Hi and welcome to Pomovibbio! The Pomodoro app that helps you manage your time!
 ### Running this app
 
-This is just a tiny little app created with `create-react-app`. You can get it up and running by cloning this repo, installing the dependencies (run `yarn` or `npm i` if you don't have yarn), and then running `yarn start` (or `npm start`).
+Easy! Start by cloning this app: `git clone git@github.com:gekographe/pomovibbio.git`
+Then run `npm i` followed by `npm start` and everything should run smoothly! 🥳
+
+Finally if you just want to see the current version of the app, you can have a peek [here](http://pomovibbio.herokuapp.com/)!
+
+I hope you'll manage to find some time to have a look!
+...
+
+(get it? Manage? Time? Pomodo... Yeah you get it!)

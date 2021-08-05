@@ -1,1 +1,48 @@
-.app { }
+body {
+  background-color: #dfff9a;
+  font-family: Verdana, sans-serif;
+}
+
+p {
+  margin: 0;
+}
+
+@font-face { 
+  font-family: Superscript; 
+  src: url("fonts/superscript/SUPERSCR.TTF") format("truetype"); 
+}
+
+.app {
+  margin-top: 10rem;
+}
+
+.center-copy{
+  justify-content: center;
+  display: flex;
+  text-align: center;
+}
+
+.input-field {
+  display: flex;
+  justify-content: center;
+  margin-top: 1rem;
+}
+
+.button-center {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  margin-top: 1rem;
+}
+
+.button-shape {
+  padding: 1rem;
+  margin-left: 1rem;
+  margin-right: 1rem;
+  font-size: 1.2rem;
+  text-align: center;
+  background-color: #EFEFEF;
+  border: 0.4rem outset #767676;
+  width: 7rem;
+  font-family: Superscript, sans-serif;
+}

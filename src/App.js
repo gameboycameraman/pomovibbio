@@ -12,8 +12,8 @@ class App extends Component {
       timer: [],
 			count: 0,
 			focus: 'Work',
-			session: 1,
-			break: 1
+			session: 1500,
+			break: 300
     }
   }
 
